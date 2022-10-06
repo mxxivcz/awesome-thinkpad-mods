@@ -20,6 +20,41 @@
 ## Contents
 
 - [Contribute](#contribute)
+- [Screen](#screen)
+- [Keyboard](#keyboard)
+- [Processor](#processor)
+- [Motherboard](#motherboard)
+- [FrankenPads](#frankenpads)
+- [BIOS](#bios)
+- [Storage](#storage)
+- [RAM](#ram)
+- [Charging](#charging)
+- [Speakers](#speakers)
+- [Cooling](#cooling)
+- [Other Goodies](#other-goodies)
+- [Contribute](#contribute)
+
+## Screen
+
+## Keyboard
+
+## Motherboard
+
+## FrankenPads
+
+## BIOS
+
+## Storage
+
+## RAM
+
+## Charging
+
+## Speakers
+
+## Cooling
+
+## Other goodies
 
 ## Contribute
 
